@@ -1,0 +1,11 @@
+.step-list, .value-list { display: grid; gap: 1rem 2rem; margin: 1.75rem 0 0; padding: 0; list-style: none; }
+.step-list > li, .value-list > li { border-top: 1px solid var(--line); padding-block: 1rem; }
+.step-list { counter-reset: step; }
+.step-list > li { counter-increment: step; }
+.step-list > li::before { display: block; margin-bottom: .6rem; color: var(--ink-gold); font-weight: 600; content: counter(step, decimal-leading-zero); }
+.value-list > li::before { display: block; width: .48rem; height: .48rem; border: 1px solid var(--ink-gold); transform: rotate(45deg); margin: .2rem 0 .8rem; content: ""; }
+@media (min-width: 39rem) { .step-list, .value-list { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+@media (min-width: 63rem) {
+  .step-list { grid-template-columns: repeat(4,minmax(0,1fr)); }
+  .value-list { grid-template-columns: repeat(3,minmax(0,1fr)); }
+}

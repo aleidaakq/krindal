@@ -1,0 +1,204 @@
+{
+  "nav": [
+    "Home",
+    "About",
+    "Services",
+    "Our Approach",
+    "Contact"
+  ],
+  "ctas": [
+    "Book a Discovery Call",
+    "Schedule a Discovery Call",
+    "Explore Our Services"
+  ],
+  "eyebrow": "Executive Office · Strategic Support",
+  "hero": [
+    "Your right hand.",
+    "Strategic impact."
+  ],
+  "lead": "We provide discreet, personalized executive and operational support for founders, CEOs and ambitious leaders who value their time and demand excellence.",
+  "position": "Your time is your most valuable asset.",
+  "positionText": "We handle complexity, so you can focus on growth. We learn how you work, anticipate what comes next and coordinate the responsibilities that compete for your attention.",
+  "services": [
+    [
+      "Executive Support",
+      "Calendar management",
+      "Meeting organization",
+      "Inbox and communications",
+      "Document preparation",
+      "Commitment follow-up",
+      "Executive priorities"
+    ],
+    [
+      "Business & Operations Support",
+      "Internal processes",
+      "Administration",
+      "Supplier coordination",
+      "Operational follow-up",
+      "Procedures",
+      "Workflow improvement"
+    ],
+    [
+      "Project Coordination",
+      "Project planning",
+      "Deadline tracking",
+      "Deliverables",
+      "Stakeholder communication",
+      "Priorities",
+      "Special projects"
+    ],
+    [
+      "Travel & Lifestyle Management",
+      "Business travel planning",
+      "Itineraries",
+      "Reservations",
+      "Logistics",
+      "International commitments"
+    ],
+    [
+      "Talent & Recruitment Support",
+      "Candidate sourcing",
+      "Profile screening",
+      "Interviews",
+      "Recruitment support",
+      "Onboarding"
+    ],
+    [
+      "Digital Business Solutions",
+      "Institutional websites",
+      "Visual identity",
+      "Digital presence",
+      "Business tools",
+      "Communication channels",
+      "Tailored solutions"
+    ]
+  ],
+  "digital": "A complementary practice for businesses that need their digital presence and tools to work together.",
+  "dif": "Not just support. A strategic partnership.",
+  "values": [
+    [
+      "Trusted & Confidential",
+      "Sensitive matters are handled with discretion."
+    ],
+    [
+      "Personalized by Design",
+      "Support follows the way you work."
+    ],
+    [
+      "Proactive, Not Reactive",
+      "We anticipate decisions and deadlines."
+    ],
+    [
+      "International Perspective",
+      "We coordinate across cultures and time zones."
+    ],
+    [
+      "Operational Excellence",
+      "We bring order and ownership to daily operations."
+    ],
+    [
+      "Built Around Your Priorities",
+      "We keep the work aligned with what matters to you."
+    ]
+  ],
+  "steps": [
+    [
+      "Discover",
+      "Understand your priorities, challenges and needs."
+    ],
+    [
+      "Align",
+      "Agree on responsibilities, outcomes and communication."
+    ],
+    [
+      "Execute",
+      "Organize the work and take ownership of agreed responsibilities."
+    ],
+    [
+      "Optimize",
+      "Review results and adapt as priorities evolve."
+    ]
+  ],
+  "founder": "About the Founder",
+  "bio": "KRINDAL is an independent, founder-led Executive Office. With a background in Hotel Management and international experience in multicultural environments, its founder brings together hospitality, operations and coordination. That experience informs how she works with attention to detail, discretion and an instinct for anticipating needs.",
+  "international": "Wherever you lead, we support.",
+  "internationalText": "We work remotely across countries and time zones, with support in English, Brazilian Portuguese and Spanish.",
+  "faq": "Frequently asked questions",
+  "questions": [
+    [
+      "How does remote executive support work?",
+      "We agree on tools, access and communication, then coordinate the work remotely."
+    ],
+    [
+      "Who do you work with?",
+      "Founders, executives and business owners with complex workloads."
+    ],
+    [
+      "Can I request help with a single project?",
+      "Yes. Share the scope and timeline so we can assess the fit."
+    ],
+    [
+      "Is ongoing support available?",
+      "Yes. We define responsibilities and a working rhythm together."
+    ],
+    [
+      "How do you handle confidentiality?",
+      "We agree on how to share information and limit access to what the work requires."
+    ],
+    [
+      "How is pricing determined?",
+      "Pricing depends on the scope and level of involvement discussed during discovery."
+    ],
+    [
+      "Can you work with international clients?",
+      "Yes. We coordinate across time zones in English, Portuguese and Spanish."
+    ],
+    [
+      "How do we get started?",
+      "Share your priorities so we can discuss what support would look like."
+    ]
+  ],
+  "contact": "Let's make space for what matters.",
+  "intro": "Tell us what you need to take off your plate.",
+  "fields": [
+    "Name",
+    "Company",
+    "Work email",
+    "Phone (optional)",
+    "Service of interest",
+    "How can we help?",
+    "I agree to the processing described in the"
+  ],
+  "form": [
+    "Choose a service",
+    "I’m open to discussing options",
+    "Send inquiry"
+  ],
+  "status": [
+    "Please complete the indicated fields and check your email.",
+    "Sending your inquiry…",
+    "Your inquiry was sent.",
+    "We couldn’t send your inquiry. Please try again.",
+    "Online inquiries are currently unavailable."
+  ],
+  "utility": [
+    "Skip to content",
+    "Menu",
+    "Back to top",
+    "Privacy Policy",
+    "Terms of Use",
+    "Page not found",
+    "Return home",
+    "Language",
+    "All rights reserved."
+  ],
+  "legal": [
+    "Provisional text pending review before publication.",
+    "We use the information you submit to review and respond to your inquiry. Please omit sensitive information. Data handling and retention details will be confirmed when the contact provider is selected.",
+    "This website describes KRINDAL’s services. Scope, fees and responsibilities are agreed separately for each engagement."
+  ],
+  "images": [
+    "Executive office overlooking the city",
+    "Contemporary workspace"
+  ]
+}

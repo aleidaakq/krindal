@@ -1,0 +1,20 @@
+.contact-grid, form, .fields { display: grid; gap: 1.2rem; }
+.contact-grid { gap: clamp(2rem, 6vw, 5rem); }
+form label { display: grid; gap: .3rem; font-weight: 500; }
+input:not([type=checkbox]), textarea, select {
+  width: 100%; min-width: 0; padding: .75rem;
+  font: inherit; color: inherit; background: var(--white); border: 1px solid #777;
+}
+textarea { resize: vertical; }
+.consent label { display: inline; }
+.consent input { accent-color: var(--primary); }
+form button { justify-self: start; }
+form [aria-invalid=true] { outline: 2px solid #8f3428; outline-offset: 2px; }
+.form-status { min-height: 1.65em; }
+.faq { max-width: 52rem; margin-top: 1.5rem; border-bottom: 1px solid var(--line); }
+.faq details { border-top: 1px solid var(--line); padding: .85rem 0; }
+.faq summary { cursor: pointer; font-weight: 600; padding: .2rem 0; }
+.faq p { padding: .45rem 0; }
+.legal { min-height: 35vh; }
+@media (min-width: 40rem) { .fields { grid-template-columns: repeat(2,minmax(0,1fr)); } }
+@media (min-width: 55rem) { .contact-grid { grid-template-columns: .7fr 1fr; } }

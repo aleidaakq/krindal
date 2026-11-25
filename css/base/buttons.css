@@ -1,0 +1,19 @@
+.btn-primary, .btn-outline, .menu-toggle {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  min-height: 2.8rem;
+  padding: .68rem 1rem;
+  border: 1px solid transparent;
+  text-decoration: none;
+  text-align: center;
+  font: 600 .9rem/1.35 Inter, sans-serif;
+  cursor: pointer;
+  transition: background var(--transition), color var(--transition);
+}
+.btn-primary { background: var(--gold); color: var(--deep); }
+.btn-primary:hover { background: #e1bb45; }
+.btn-outline { border-color: currentColor; color: inherit; background: transparent; }
+.btn-outline:hover { background: var(--primary); color: var(--white); }
+.dark .btn-outline:hover { background: var(--white); color: var(--primary); }
+.btn-primary:disabled { cursor: default; background: #ddd9cd; color: #514c42; }

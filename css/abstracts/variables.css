@@ -1,0 +1,14 @@
+:root {
+  --primary: #1b1b1d;
+  --deep: #0d0d0d;
+  --white: #fff;
+  --paper: #faf9f6;
+  --gray: #f4f5f7;
+  --gold: #c9a227;
+  --ink-gold: #745a09;
+  --text: #535358;
+  --line: #d8d6d0;
+  --container: 82rem;
+  --gutter: clamp(1.125rem, 4.5vw, 4rem);
+  --transition: 180ms ease;
+}

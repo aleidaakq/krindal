@@ -1,0 +1,8 @@
+footer { padding-block: 3rem; border-top: 1px solid #ffffff25; }
+.footer-grid { display: grid; gap: 2rem; }
+.footer-grid nav, .footer-meta, [data-channels] { display: grid; align-content: start; justify-items: start; gap: .6rem; }
+.footer-grid a:hover { text-decoration: underline; }
+.footer-grid p, [data-channels] { margin-top: .7rem; }
+.footer-meta small { color: #d5d3ce; }
+@media (min-width: 38rem) { .footer-grid { grid-template-columns: repeat(2, minmax(0, 1fr)); } }
+@media (min-width: 63rem) { .footer-grid { grid-template-columns: 1fr .8fr 1.25fr 1fr; } }

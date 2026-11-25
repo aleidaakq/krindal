@@ -1,0 +1,44 @@
+*, *::before, *::after { box-sizing: border-box; }
+html { scroll-behavior: smooth; scroll-padding-top: 6rem; }
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--primary);
+  font: 1rem/1.65 Inter, sans-serif;
+}
+[hidden] { display: none !important; }
+img { display: block; max-width: 100%; height: auto; }
+a { color: inherit; text-underline-offset: .27em; }
+a:hover { text-decoration-thickness: 2px; }
+:focus-visible { outline: 2px solid var(--ink-gold); outline-offset: 4px; }
+.dark :focus-visible, .header :focus-visible { outline-color: var(--gold); }
+h1, h2, h3, p { margin: 0; }
+h1, h2, h3 { font-family: Manrope, sans-serif; line-height: 1.1; overflow-wrap: anywhere; }
+h1 { font-size: clamp(2.625rem, 6vw, 5.875rem); letter-spacing: -.065em; }
+h2 { font-size: clamp(1.85rem, 3.7vw, 3.4rem); letter-spacing: -.045em; }
+h3 { font-size: clamp(1.125rem, 2vw, 1.55rem); letter-spacing: -.02em; }
+p { max-width: 63ch; color: var(--text); }
+h2 + p, h3 + p, p + p { margin-top: 1rem; }
+.container { width: min(calc(100% - 2 * var(--gutter)), var(--container)); margin-inline: auto; }
+.section { padding-block: clamp(3.5rem, 8vw, 7.5rem); }
+.soft { background: var(--gray); }
+.dark { background: var(--primary); color: var(--white); }
+.dark p { color: #d5d3ce; }
+.page-heading { padding-block: clamp(3rem, 9vw, 8rem); }
+.page-heading h1 { max-width: 16ch; }
+.intro-section .container { display: grid; gap: 1.5rem; }
+.intro-section p { margin: 0; font-size: clamp(1.05rem, 2vw, 1.32rem); }
+#discovery .btn-primary { margin-top: 1.5rem; }
+.skip { position: fixed; z-index: 10; top: .75rem; left: .75rem; padding: .5rem 1rem; background: var(--white); transform: translateY(-180%); }
+.skip:focus { transform: translateY(0); }
+@media (min-width: 50rem) {
+  .intro-section .container { grid-template-columns: .9fr 1fr; align-items: start; }
+}
+@media (prefers-reduced-motion: no-preference) {
+  .hero-grid, .page-heading .container { animation: enter 460ms ease-out both; }
+  @keyframes enter { from { opacity: 0; transform: translateY(8px); } }
+}
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after { transition: none !important; }
+}

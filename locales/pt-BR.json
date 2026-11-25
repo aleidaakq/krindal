@@ -1,0 +1,204 @@
+{
+  "nav": [
+    "Início",
+    "Sobre",
+    "Serviços",
+    "Nossa abordagem",
+    "Contato"
+  ],
+  "ctas": [
+    "Agende uma conversa inicial",
+    "Agende uma conversa inicial",
+    "Conheça nossos serviços"
+  ],
+  "eyebrow": "Executive Office · Suporte estratégico",
+  "hero": [
+    "Seu braço direito.",
+    "Impacto estratégico."
+  ],
+  "lead": "Oferecemos suporte executivo e operacional discreto e personalizado a fundadores, CEOs e líderes que valorizam seu tempo e exigem excelência.",
+  "position": "Seu tempo é seu ativo mais valioso.",
+  "positionText": "Cuidamos da complexidade para que você possa focar no crescimento. Entendemos seu modo de trabalhar, antecipamos necessidades e coordenamos as responsabilidades que disputam sua atenção.",
+  "services": [
+    [
+      "Suporte executivo",
+      "Gestão de agendas",
+      "Organização de reuniões",
+      "E-mails e comunicações",
+      "Preparação de documentos",
+      "Acompanhamento de compromissos",
+      "Prioridades executivas"
+    ],
+    [
+      "Suporte empresarial e operacional",
+      "Processos internos",
+      "Gestão administrativa",
+      "Coordenação de fornecedores",
+      "Acompanhamento operacional",
+      "Procedimentos",
+      "Melhoria de fluxos"
+    ],
+    [
+      "Coordenação de projetos",
+      "Planejamento",
+      "Prazos",
+      "Entregas",
+      "Comunicação entre envolvidos",
+      "Gestão de prioridades",
+      "Projetos especiais"
+    ],
+    [
+      "Gestão de viagens e compromissos",
+      "Planejamento de viagens profissionais",
+      "Itinerários",
+      "Reservas",
+      "Logística",
+      "Compromissos internacionais"
+    ],
+    [
+      "Suporte a talentos e recrutamento",
+      "Busca de candidatos",
+      "Triagem de perfis",
+      "Coordenação de entrevistas",
+      "Apoio ao recrutamento",
+      "Organização da integração"
+    ],
+    [
+      "Soluções digitais para empresas",
+      "Sites institucionais",
+      "Identidade visual",
+      "Presença digital",
+      "Ferramentas empresariais",
+      "Canais de comunicação",
+      "Soluções sob medida"
+    ]
+  ],
+  "digital": "Uma área complementar para empresas que precisam integrar a presença digital e as ferramentas de trabalho.",
+  "dif": "Mais que suporte. Uma parceria estratégica.",
+  "values": [
+    [
+      "Confiança e confidencialidade",
+      "Tratamos assuntos sensíveis com discrição."
+    ],
+    [
+      "Personalização",
+      "O suporte acompanha seu modo de trabalhar."
+    ],
+    [
+      "Proatividade",
+      "Antecipamos decisões e prazos."
+    ],
+    [
+      "Perspectiva internacional",
+      "Coordenamos o trabalho entre culturas e fusos."
+    ],
+    [
+      "Excelência operacional",
+      "Organizamos as responsabilidades da operação diária."
+    ],
+    [
+      "Suas prioridades no centro",
+      "Mantemos o trabalho alinhado ao que importa para você."
+    ]
+  ],
+  "steps": [
+    [
+      "Descobrir",
+      "Entender suas prioridades, desafios e necessidades."
+    ],
+    [
+      "Alinhar",
+      "Definir responsabilidades, objetivos e formas de comunicação."
+    ],
+    [
+      "Executar",
+      "Organizar o trabalho e assumir as responsabilidades combinadas."
+    ],
+    [
+      "Otimizar",
+      "Avaliar resultados e adaptar o suporte conforme as prioridades evoluem."
+    ]
+  ],
+  "founder": "Sobre a fundadora",
+  "bio": "A KRINDAL é uma Executive Office independente liderada pela própria fundadora. Com formação em Gestão Hoteleira e experiência internacional em ambientes multiculturais, ela reúne vivência em hospitalidade, operações e coordenação. Essa trajetória orienta seu trabalho com atenção aos detalhes, discrição e capacidade de antecipar necessidades.",
+  "international": "Onde você liderar, nós apoiamos.",
+  "internationalText": "Trabalhamos remotamente entre países e fusos horários, com atendimento em português, inglês e espanhol.",
+  "faq": "Perguntas frequentes",
+  "questions": [
+    [
+      "Como funciona o suporte executivo remoto?",
+      "Combinamos ferramentas, acessos e canais para coordenar o trabalho à distância."
+    ],
+    [
+      "Quem a KRINDAL atende?",
+      "Fundadores, executivos e empresários com rotinas complexas."
+    ],
+    [
+      "Posso contratar um serviço pontual?",
+      "Sim. Compartilhe o escopo e o prazo para avaliarmos como ajudar."
+    ],
+    [
+      "Existe suporte contínuo?",
+      "Sim. Definimos juntos responsabilidades e ritmo de trabalho."
+    ],
+    [
+      "Como funciona a confidencialidade?",
+      "Alinhamos como compartilhar informações e limitamos o acesso ao necessário."
+    ],
+    [
+      "Como os valores são definidos?",
+      "Dependem do escopo e do nível de envolvimento discutidos na conversa inicial."
+    ],
+    [
+      "Vocês atendem clientes internacionais?",
+      "Sim. Trabalhamos em diferentes fusos, em português, inglês e espanhol."
+    ],
+    [
+      "Como iniciar uma parceria?",
+      "Envie um resumo das suas prioridades para conversarmos sobre o suporte adequado."
+    ]
+  ],
+  "contact": "Abra espaço para o que importa.",
+  "intro": "Conte o que você precisa tirar da sua rotina.",
+  "fields": [
+    "Nome",
+    "Empresa",
+    "E-mail profissional",
+    "Telefone (opcional)",
+    "Serviço de interesse",
+    "Como podemos ajudar?",
+    "Concordo com o tratamento descrito na"
+  ],
+  "form": [
+    "Selecione um serviço",
+    "Quero conversar sobre as opções",
+    "Enviar mensagem"
+  ],
+  "status": [
+    "Preencha os campos indicados e confira o e-mail.",
+    "Enviando sua mensagem…",
+    "Sua mensagem foi enviada.",
+    "Não foi possível enviar. Tente novamente.",
+    "O envio on-line está indisponível no momento."
+  ],
+  "utility": [
+    "Pular para o conteúdo",
+    "Menu",
+    "Voltar ao topo",
+    "Política de Privacidade",
+    "Termos de Uso",
+    "Página não encontrada",
+    "Voltar ao início",
+    "Idioma",
+    "Todos os direitos reservados."
+  ],
+  "legal": [
+    "Texto provisório sujeito a revisão antes da publicação.",
+    "Usamos as informações enviadas para analisar e responder à sua mensagem. Evite incluir dados sensíveis. Os detalhes de tratamento e retenção serão confirmados quando o provedor for definido.",
+    "Este site apresenta os serviços da KRINDAL. Escopo, valores e responsabilidades são acordados separadamente em cada contratação."
+  ],
+  "images": [
+    "Escritório executivo com vista para a cidade",
+    "Espaço de trabalho contemporâneo"
+  ]
+}

@@ -1,0 +1,21 @@
+.header { position: sticky; top: 0; z-index: 5; color: var(--white); background: var(--primary); }
+.header.scrolled { background: var(--deep); box-shadow: 0 1px 0 #ffffff25; }
+.navbar { display: flex; flex-wrap: wrap; align-items: center; justify-content: space-between; gap: .75rem; padding-block: .8rem; }
+.navbar a, footer a { text-decoration: none; }
+.wordmark { display: inline-grid; gap: .1rem; font: 800 1.25rem/1.15 Manrope, sans-serif; letter-spacing: .19em; }
+.wordmark small { font: 500 .66rem/1.25 Inter, sans-serif; letter-spacing: .15em; text-transform: uppercase; color: #dedbd3; }
+.menu-toggle { background: transparent; border-color: #777; color: var(--white); }
+.nav-panel { width: 100%; display: grid; gap: .75rem; padding-block: .4rem; }
+.nav-list, .languages { display: flex; align-items: center; flex-wrap: wrap; gap: .25rem .9rem; }
+.nav-list a, .languages a { display: inline-flex; align-items: center; min-height: 2.75rem; font-size: .875rem; }
+.languages a { padding-inline: .2rem; }
+.nav-list a:hover, .nav-list [aria-current], .languages a:hover, .languages [aria-current] { color: #f1cc58; }
+.nav-panel > .btn-primary { justify-self: start; }
+@media (max-width: 77.99rem) {
+  .header:has(.menu-toggle[hidden]) { position: static; }
+  .nav-panel { max-height: 69dvh; overflow: auto; }
+}
+@media (min-width: 78rem) {
+  .navbar { flex-wrap: nowrap; }
+  .nav-panel { display: flex; justify-content: flex-end; align-items: center; width: auto; gap: clamp(1rem, 1.6vw, 2rem); }
+}
