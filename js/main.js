@@ -12,19 +12,13 @@ const booking = httpsUrl(config.bookingUrl);
 if (booking) {
   for (const link of document.querySelectorAll('[data-booking]')) link.href = booking;
 }
-const email = /^[^\s@?&#]+@[^\s@?&#]+\.[^\s@?&#]+$/.test(config.email) ? 'mailto:' + config.email : '';
-const channels = [
-  [config.email, email],
-  ['WhatsApp', httpsUrl(config.whatsappUrl)],
-  ['LinkedIn', httpsUrl(config.linkedInUrl)]
-];
-for (const group of document.querySelectorAll('[data-channels]')) {
-  for (const [label, href] of channels) {
-    if (!href) continue;
+const linkedIn = httpsUrl(config.linkedInUrl);
+if (linkedIn) {
+  for (const group of document.querySelectorAll('[data-channels]')) {
     const link = document.createElement('a');
-    link.href = href;
-    link.textContent = label;
+    link.href = linkedIn;
+    link.textContent = 'LinkedIn';
     group.append(link);
+    group.hidden = false;
   }
-  group.hidden = !group.childElementCount;
 }

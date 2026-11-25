@@ -1,0 +1,39 @@
+{
+  "start": "Iniciar conversación por WhatsApp",
+  "talk": "Hablemos",
+  "direct": "¿Prefieres un contacto más directo? Escríbenos por WhatsApp.",
+  "prefill": "¡Hola! Conocí KRINDAL a través de su sitio web y me gustaría obtener más información sobre sus servicios.",
+  "subject": "Solicitud de información — KRINDAL",
+  "emailAction": "Enviar mensaje por correo",
+  "whatsappAction": "Enviar mensaje por WhatsApp",
+  "emailDirect": "Escribir a KRINDAL por correo",
+  "fields": [
+    "Nombre completo",
+    "Nombre de la empresa",
+    "Correo electrónico",
+    "Teléfono o WhatsApp (con código internacional)",
+    "País"
+  ],
+  "phoneError": "Introduce un número internacional que empiece con + e incluya el código del país.",
+  "opening": "Revisa y envía el mensaje en WhatsApp.",
+  "unavailable": "El envío por formulario no está disponible en este momento. Usa WhatsApp o el enlace directo de correo.",
+  "failed": "No se pudo confirmar el envío. Inténtalo de nuevo o utiliza WhatsApp o el correo directo.",
+  "thanks": "Gracias por escribirnos. Se ha aceptado tu consulta para su envío. También puedes contactar por WhatsApp.",
+  "heading": "NUEVO CONTACTO — KRINDAL",
+  "labels": [
+    "Nombre",
+    "Empresa",
+    "Correo electrónico",
+    "Teléfono",
+    "País",
+    "Servicio de interés",
+    "Mensaje"
+  ],
+  "source": "Origen: Sitio web de KRINDAL",
+  "notice": "La opción de WhatsApp abre un borrador con los datos del formulario. Revísalo antes de enviarlo.",
+  "policy": [
+    "KRINDAL utiliza la información que facilitas para revisar tu consulta, responder y dar seguimiento a tu solicitud. Los datos pueden incluir nombre, empresa, correo, teléfono, país, servicio de interés y mensaje. Evita compartir información sensible.",
+    "Al elegir WhatsApp, los datos introducidos se incluyen en un borrador que se abre en WhatsApp. El servicio puede recibir esos datos cuando se abre el borrador. Tú confirmas el envío en WhatsApp. El enlace directo de correo abre tu aplicación de correo, donde eliges qué enviar.",
+    "Cuando el envío mediante formulario está disponible, Formspree procesa las consultas para entregarlas a KRINDAL y puede conservarlas conforme a sus propias condiciones. Ponte en contacto con KRINDAL para solicitar acceso, rectificación o eliminación o consultar cómo tratamos tu solicitud."
+  ]
+}

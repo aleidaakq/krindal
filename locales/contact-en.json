@@ -1,0 +1,39 @@
+{
+  "start": "Start a conversation on WhatsApp",
+  "talk": "Let's talk",
+  "direct": "Prefer a more direct approach? Connect with us on WhatsApp.",
+  "prefill": "Hello! I discovered KRINDAL through your website and would like to learn more about your services.",
+  "subject": "Business Inquiry — KRINDAL",
+  "emailAction": "Send message by email",
+  "whatsappAction": "Send message on WhatsApp",
+  "emailDirect": "Email KRINDAL",
+  "fields": [
+    "Full name",
+    "Company name",
+    "Email",
+    "Phone or WhatsApp (with country code)",
+    "Country"
+  ],
+  "phoneError": "Enter an international phone number beginning with + and including the country code.",
+  "opening": "Review and send your message in WhatsApp.",
+  "unavailable": "Email form delivery is currently unavailable. Use WhatsApp or the direct email link.",
+  "failed": "Your inquiry could not be confirmed. Try again or use WhatsApp or direct email.",
+  "thanks": "Thank you. Your inquiry was accepted for delivery. You can also contact us on WhatsApp.",
+  "heading": "NEW INQUIRY — KRINDAL",
+  "labels": [
+    "Name",
+    "Company",
+    "Email",
+    "Phone",
+    "Country",
+    "Service of interest",
+    "Message"
+  ],
+  "source": "Source: KRINDAL website",
+  "notice": "Choosing WhatsApp opens a draft containing the form details. Review it before sending.",
+  "policy": [
+    "KRINDAL uses the information you provide to review your inquiry, respond and coordinate any follow-up you request. This may include your name, company, email, phone, country, service of interest and message. Please avoid sending sensitive information.",
+    "When you choose WhatsApp, the details you entered are included in a draft opened through WhatsApp. WhatsApp may receive that data as the draft opens. Sending the message requires your confirmation in WhatsApp. With the direct email link, your email application opens and you choose what to send.",
+    "Where email form delivery is available, Formspree processes submissions for delivery to KRINDAL. Those submissions may also be retained by Formspree under its own terms. Contact KRINDAL to ask about access, correction, deletion or how we handle your inquiry."
+  ]
+}
