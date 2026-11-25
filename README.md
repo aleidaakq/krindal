@@ -4,6 +4,8 @@ Site institucional estático em inglês, português do Brasil e espanhol. A vers
 
 A KRINDAL é uma boutique independente de suporte executivo, estratégico e operacional para fundadores, CEOs e líderes. O site apresenta seus serviços, metodologia e canais de contato.
 
+Site público: [KRINDAL Executive Office](https://aleidaakq.github.io/krindal/)
+
 ## Tecnologias e estrutura
 
 - HTML5 estático e acessível em inglês, português do Brasil e espanhol.

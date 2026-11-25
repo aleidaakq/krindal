@@ -1,2 +1,3 @@
 User-agent: *
 Allow: /
+Sitemap: https://aleidaakq.github.io/krindal/sitemap.xml
